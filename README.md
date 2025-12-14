@@ -296,16 +296,3 @@ API Behavior: Confirmed that the purchase endpoint decreases stock correctly and
 
 ---
 
-##. Screenshots
-
-<img width="948" height="474" alt="image" src="https://github.com/user-attachments/assets/b68b61cc-f3c0-4b78-accc-d0b3825e74ee" />
-<img width="960" height="476" alt="image" src="https://github.com/user-attachments/assets/575089fb-7e3c-4b45-b8b6-edf541f2f039" />
-<img width="959" height="469" alt="image" src="https://github.com/user-attachments/assets/70f6ffd4-884a-4dde-8305-66ff088dcf40" />
-<img width="960" height="475" alt="image" src="https://github.com/user-attachments/assets/823b5bf4-792c-43ce-944e-9ae9d557384d" />
-<img width="960" height="475" alt="image" src="https://github.com/user-attachments/assets/0bcc2d92-721f-44d7-9f0b-6630fb38d1f7" />
-<img width="949" height="475" alt="image" src="https://github.com/user-attachments/assets/35295dc0-3c22-4e05-a52c-005705b98055" />
-
-
-
-
-
