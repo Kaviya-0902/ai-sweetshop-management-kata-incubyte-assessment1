@@ -53,31 +53,32 @@ The Sweet Shop Management System is a complete **full-stack application** built 
 | **Database**| SQLite (Default) / PostgreSQL | Stores users, roles, and sweet inventory data. |
 
 ---
+Homepage
 
 
-Dashboard Page
+<img width="948" height="474" alt="Screenshot 2025-12-14 160501" src="https://github.com/user-attachments/assets/168978f6-ae8b-47c2-9ea3-a46b998a39f5" />
 
-<img width="948" height="474" alt="image" src="https://github.com/user-attachments/assets/b68b61cc-f3c0-4b78-accc-d0b3825e74ee" />
+Filter
 
-Filter option
+<img width="960" height="476" alt="Screenshot 2025-12-14 160628" src="https://github.com/user-attachments/assets/a7593efb-9a38-4a8b-a596-7fad733ed082" />
 
-<img width="960" height="476" alt="image" src="https://github.com/user-attachments/assets/575089fb-7e3c-4b45-b8b6-edf541f2f039" />
+Cart
 
-Cart section
+<img width="959" height="469" alt="Screenshot 2025-12-14 160701" src="https://github.com/user-attachments/assets/a3fa32ca-5470-44f8-91b0-efda504d80ee" />
 
-<img width="959" height="469" alt="image" src="https://github.com/user-attachments/assets/70f6ffd4-884a-4dde-8305-66ff088dcf40" />
+Admin Login
 
-Admin Login page
+<img width="960" height="475" alt="Screenshot 2025-12-14 160732" src="https://github.com/user-attachments/assets/4ab040be-d35c-40fc-b667-a62e4d58ae4f" />
 
-<img width="960" height="475" alt="image" src="https://github.com/user-attachments/assets/823b5bf4-792c-43ce-944e-9ae9d557384d" />
+Admin Signup
 
-Admin Signup page
+ <img width="960" height="475" alt="Screenshot 2025-12-14 160757" src="https://github.com/user-attachments/assets/028345f4-55e6-4d53-af86-ebf306651505" />
 
-<img width="960" height="475" alt="image" src="https://github.com/user-attachments/assets/0bcc2d92-721f-44d7-9f0b-6630fb38d1f7" />
+Admin Dashboard(CRUD)
 
-Admin Dashboard (CRUD)
+<img width="949" height="475" alt="Screenshot 2025-12-14 160834" src="https://github.com/user-attachments/assets/9cf015d4-97c7-445b-bfa8-3e8837ec7e06" />
 
-<img width="949" height="475" alt="image" src="https://github.com/user-attachments/assets/35295dc0-3c22-4e05-a52c-005705b98055" />
+
 
 
 ## 2. Key Features
